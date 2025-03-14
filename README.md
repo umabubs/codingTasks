@@ -1,6 +1,5 @@
 # README
 
-README
 Random Forest Titanic Survival Prediction
 
 Table of Contents
